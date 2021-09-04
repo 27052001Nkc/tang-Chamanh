@@ -11,7 +11,7 @@ const CONFIG = {
     btnNo: 'Không, Nguyễn Kim Cẩn à :3',
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
     btnReply: 'Gửi cho anh <3',
-    reply: '                                ',
+    reply: '',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Hết dịch em mặc chiếc váy thật xinh để mình đi vật lộn nhaa.',
     btnAccept: 'Okiiiii lun cu Vin <3',
